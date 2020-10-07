@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Login": "flju",
+    "Name": "Juan",
+    "Surname": "Flores",
+    "Password": "Passw0rd!",
+    "IsLoggedOn": true
+  },
+  {
+    "Id": 2,
+    "Login": "zace",
+    "Name": "Cesar",
+    "Surname": "Zabala",
+    "Password": "Passw0rd!",
+    "IsLoggedOn": false
+  },
+  {
+    "Id": 3,
+    "Login": "mefi",
+    "Name": "Filipe",
+    "Surname": "Dinis",
+    "Password": "Passw0rd!",
+    "IsLoggedOn": false
+  }
+]
